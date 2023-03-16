@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ToolsQA Demo Site</name>
+   <tag></tag>
+   <elementGuidId>c89772f7-f64f-40f6-82d1-c392f1bfbab7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='noo-site']/section/div/div/div/span/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.home > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f01f3286-47e0-4e7c-9c5b-59959d9569ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>property</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>6576c135-bc1f-4a69-8557-8e009d0abea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ToolsQA Demo Site</value>
+      <webElementGuid>9e67510f-5293-45d0-88f1-7513b5f62a2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/section[@class=&quot;noo-page-heading&quot;]/div[@class=&quot;noo-container&quot;]/div[@class=&quot;noo-heading-content&quot;]/div[@class=&quot;noo-page-breadcrumb&quot;]/span[1]/a[@class=&quot;home&quot;]/span[1]</value>
+      <webElementGuid>e9fa1bed-d861-4695-9a0f-c1ecdfea43b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noo-site']/section/div/div/div/span/a/span</value>
+      <webElementGuid>faabb476-902f-4e6c-a983-25de1080e666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[2]/following::span[2]</value>
+      <webElementGuid>3aa60e72-57fa-447e-9dd1-2695294fc6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[3]/preceding::span[1]</value>
+      <webElementGuid>dff5f006-92f1-4401-9caa-0b41561cad7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::span[3]</value>
+      <webElementGuid>016e29b5-e011-4d44-97a0-b2c8c3e461c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ToolsQA Demo Site']/parent::*</value>
+      <webElementGuid>c4bfedb7-a7d4-4203-b482-8c553cf23ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/span</value>
+      <webElementGuid>be8859b1-8230-4fac-9c1b-08f70904eacc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ToolsQA Demo Site' or . = 'ToolsQA Demo Site')]</value>
+      <webElementGuid>a2fc808f-cb2f-4aa0-8e3f-9c5e197d806e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
