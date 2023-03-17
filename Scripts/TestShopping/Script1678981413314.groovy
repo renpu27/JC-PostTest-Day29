@@ -27,12 +27,12 @@ WebUI.click(findTestObject('BlackTshirt'))
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_black lux graphic t-shirt  ToolsQA Demo Site/select_Choose an optionBlack'), 
     'black', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_black lux graphic t-shirt  ToolsQA Demo Site/select_Choose an option323436'), 
-    '34', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_black lux graphic t-shirt  ToolsQA Demo Site/select_Choose an option323436'), 
+    '1', FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_black lux graphic t-shirt  ToolsQA Demo Site/button_Add to cart'))
 
-WebUI.verifyElementText(findTestObject('AddedToCart'), '“black lux graphic t-shirt” has been added to your cart.')
+WebUI.verifyElementText(findTestObject('AddedToCart'), 'View cart')
 
 WebUI.closeBrowser()
 
